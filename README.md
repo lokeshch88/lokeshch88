@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lokesh chaudhari
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Full Stack Web Development 
+- 👀 I’m interested in App Developement
+- 🌱 I’m currently work as Full Stack Web Developer 
 - 📫 How to reach me lokeshchaudhari7083@gmail.com
   
 <!---
